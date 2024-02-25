@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Python
-The timeless Flappy Bird game utilizes artificial intelligence (NEAT) to teach itself and play the game flawlessly.
+The code is establishing a server where multiple clients can connect to engage in the well-known Rock Paper Scissors game.
